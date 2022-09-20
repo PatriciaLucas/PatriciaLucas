@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatriciaLucas
 - 👀 I’m interested in education, data science, machine learnig and ...
-- 🌱 I’m currently learning how to classification signals of Libras.
+- 🌱 I’m currently learning about Auto Machine Learning.
 - 📫 patricia.lucas@ifnmg.edu.br
 
 <!---

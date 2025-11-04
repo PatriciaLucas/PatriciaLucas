@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatriciaLucas
 - 👀 I’m interested in education, data science, machine learnig and everything...
-- 🌱 I’m currently learning about Auto Machine Learning for Times Series.
+- 🌱 I’m currently learning about Auto Machine Learning for Times Series and exploring LLM agents (Large Language Model Agents).
 - 📫 patricia.lucas@ifnmg.edu.br
 
 <!---
